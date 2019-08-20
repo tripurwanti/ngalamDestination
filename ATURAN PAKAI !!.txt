@@ -1,0 +1,9 @@
+import dulu database, nama database = ngalamdestination
+cara akses web http://localhost/NgalamDestination/
+cara akses web admin http://localhost/NgalamDestination/index.php/c_admin
+catet kalo ada miss !!
+
+- rekomendasi search
+- undo delete
+- verifikasi email
+- lupa password

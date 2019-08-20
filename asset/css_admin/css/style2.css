@@ -1,0 +1,35 @@
+.login-now-btn {
+    background: #ff4157 none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0;
+    padding: 4px 8px;
+    text-transform: uppercase;
+}
+
+
+.login-now-btn:hover, .vacation-offer-details .btn.btn-default:hover{
+    background: #162541;
+}
+
+.transparan2{
+
+    background:rgba(255,255,255,.7);
+    color:#000;
+    padding:10px;
+    margin:0 auto;
+    font-weight:700;
+
+}
+
+.transparan3
+{
+
+    background:rgba(255,255,255,.7); 
+    color:#ff4157;
+    padding:10px;
+    margin:0 auto;
+    font-weight:700;
+}
